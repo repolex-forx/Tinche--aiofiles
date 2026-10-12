@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Tinche/aiofiles/commit/3c2180f7f45f1f7f374f3281597fb4144e901e38",
       "git:hexsha": "3c2180f7f45f1f7f374f3281597fb4144e901e38",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Tinche/aiofiles/commit/f86c14a1d48d1a10e44f43edc933daa64987b8a2",

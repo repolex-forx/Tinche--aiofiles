@@ -1,0 +1,11 @@
+{
+  "org": "Tinche",
+  "repo": "aiofiles",
+  "versions": [
+    {
+      "commit": "3c2180f7f45f1f7f374f3281597fb4144e901e38",
+      "tag": "",
+      "parsed_at": "2026-10-12T22:02:47.069940+00:00"
+    }
+  ]
+}
